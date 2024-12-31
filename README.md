@@ -11,6 +11,11 @@ This is a simple Hello World application built using Express.js.
 ### Installation
 
 1. Clone the repository or download the files.
+
+```bash
+git clone https://github.com/Mohamed-JJ/leetops-resource-hello-world-express-app.git
+```
+
 2. Install the dependencies:
 
 ```bash
